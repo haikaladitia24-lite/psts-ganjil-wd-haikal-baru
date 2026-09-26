@@ -5,6 +5,7 @@
 }
 .wadah-konten {
     max-width: 725px;
+    margin: 0 auto;
 }
 header {
     background-color: #1e3a05;
